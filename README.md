@@ -29,3 +29,11 @@ npm start
 ```
 npm run ios
 ```
+
+
+
+
+![test_video](https://github.com/Jae1ko/fleaacution_test/assets/111745662/6895924e-dcca-469d-85da-3f9a9cf63ce1)
+
+
+
