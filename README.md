@@ -7,6 +7,18 @@ git clone https://github.com/Jae1ko/fleaacution_test.git
 ```
 
 ```
+cd ios
+```
+
+```
+pod install
+```
+
+```
+cd ..
+```
+
+```
 npm install
 ```
 
