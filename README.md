@@ -7,6 +7,10 @@ git clone https://github.com/Jae1ko/fleaacution_test.git
 ```
 
 ```
+npm install
+```
+
+```
 cd ios
 ```
 
@@ -19,7 +23,7 @@ cd ..
 ```
 
 ```
-npm install
+npm start
 ```
 
 ```
